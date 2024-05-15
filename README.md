@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+<div style="display: flex; justify-content: center;">
+    <img src="preview/food1.png" alt="preview image 1" width="300" height="630">
+    <img src="preview/food2.png" alt="preview image 2" width="300" height="630">
+</div>
+
+> ### More about it in the telegram: https://t.me/khusanboyscodes/242
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
